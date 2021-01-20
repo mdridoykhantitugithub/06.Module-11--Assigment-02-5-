@@ -1,0 +1,178 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+#header-area{
+    height: 70px;
+    background-color:#feeae9;
+}
+.navbar-background{
+    background-color:#feeae9;
+}
+.navbar-background img{
+    width: 200px;
+}
+
+
+
+#slider-area{
+    height: 600px;
+    background-color:#feeae9;
+}
+
+
+#penguins-area{
+    height: 500px;
+}
+.penguins-area-inner{
+    background-color: rgb(250, 250, 250);
+}
+.left-penguins-area h1{
+    margin-top: 100px;
+    font-size: 50px;
+}
+.left-penguins-area h1 span{
+    color: rgb(250, 190, 76);
+}
+.left-penguins-area .btn{
+    border-radius: 10px;
+    height: 60px;
+    background-color: rgb(157, 181, 60);
+}
+.left-penguins-area .btn i{
+    width: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.left-penguins-area .btn h6{
+    font-size: 14px;
+    display: inline-block;
+    padding: 0px 15px 0px 0px;
+    font-weight: bold;
+}
+/* .right-penguins-area{
+    width: 480px;
+} */
+.right-penguins-area img{
+    width: 100%;
+}
+
+
+
+#woman-jacket-area{
+    /* height: 800px; */
+    background-color: rgb(252, 243, 235);
+}
+.jacket-image-area{
+    padding: 15px;
+    border-radius: 10px;
+}
+.jacket-image-area img{
+    width: 325px;
+    height: 350px;
+    background-color: rgb(184, 182, 182);
+    padding: 10px;
+    border-radius: 10px;
+}
+.footer .one{
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(250, 190, 76);
+}
+.footer .btn{
+    border-radius: 10px;
+    height: 60px;
+    background-color: rgb(157, 181, 60);
+}
+.footer .btn i{
+    width: 18px;
+    margin-right: 5px;
+    padding-left: 15px;
+}
+.footer .btn span{
+    font-size: 14px;
+    padding: 0px 15px 0px 15px;
+    font-weight: bold;
+}
+
+
+
+#man-jacket-area{
+    /* height: 800px; */
+    background-color: rgb(248, 248, 237);
+}
+
+
+
+#shopping-area{
+    /* height: 470px; */
+    background-color: rgb(252, 244, 243);
+}
+.pragraph h5{
+    font-weight: bold;
+}
+.image-size{
+    margin-top: 10px;
+    width: 70px;
+}
+.image-size img{
+    width: 100%;
+}
+/* .shopping-images{
+    width: 500px;
+    float: right;
+    margin-top: 40px;
+}
+.shopping-images img{
+    width: 100%;
+}  */
+
+
+
+#contact-us-area{
+    height: 400px;
+    padding-top: 100px;
+}
+
+
+/*=====================================================================================================
+                                        Footer Area CSS Code Start
+========================================================================================================*/
+#footer-area{
+    height: 160px;
+    text-align: center;
+    background-color: rgba(241, 238, 241, 0.89);
+}
+
+.footer-area-all .top h4{
+    padding-top: 10px;
+    font-size: 18px;
+    color: rgb(38, 0, 255);
+    text-transform: uppercase;
+    padding-bottom: 5px;
+}
+.footer-area-all .middle h3{
+    font-size: 35px;
+    padding-bottom: 10px;
+    color: red;
+}
+.footer-area-all div a img{
+    width: 40px;
+    padding: 5px;
+    margin: 0px 8px;
+    background-color: rgba(221, 215, 221, 0.89);
+    margin-bottom: 10px;
+}
+.footer-area-all div a img:hover{
+    box-shadow: 3px 3px 5px black;
+    background-color: rgb(243, 230, 230);
+    cursor: pointer;
+}
+/*=====================================================================================================
+                                    The All Area Of CSS Code End
+========================================================================================================*/
+
+

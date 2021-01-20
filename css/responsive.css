@@ -1,0 +1,39 @@
+/* 
+@media screen and (max-width:1024px){
+
+     .jacket-image-area{
+         width: 100%;
+    } 
+	.jacket-image-area img{
+        width: 100%;
+        height: 350px;
+    }
+    .footer .one{
+        font-size: 20px;
+    }
+
+}  */
+/* 
+@media screen and (max-width:768px){
+    
+    #slider-area{
+        padding-top: 100px;
+    }
+    .left-penguin{
+        text-align: center;
+        width: 100%;
+    }
+    .first{
+        width: 100%;
+    }
+	
+} */
+
+@media screen and (max-width:640px){
+	
+    #slider-area{
+        padding-top: 100px;
+    }
+
+}
+
